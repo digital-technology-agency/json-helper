@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>dta.helpers</groupId>
     <artifactId>json</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>json-helper</name>
     <packaging>jar</packaging>
     <description>JSON helpers</description>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.9.1</version>
+            <version>[2.9.10.1,)</version>
         </dependency>
     </dependencies>
 
