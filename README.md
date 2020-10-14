@@ -1,2 +1,4 @@
 # JSON helpers
-Helper json method
+Тестовый проект. Проверка нового функционала.
+
+[Агентство цифровых технологий](https://dta.agency)
